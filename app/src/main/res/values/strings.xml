@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Qr_readerTest</string>
+    <string name="result_text_default"> Пожалйста наведите камеру на QR-код</string>
+</resources>
